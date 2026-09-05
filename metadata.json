@@ -1,0 +1,8 @@
+{
+  "name": "Remix LMS ",
+  "description": "Platform Learning Management System (LMS) modern dan terpadu untuk pembelajaran digital, manajemen materi, ujian CBT interaktif, dan evaluasi hasil belajar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
